@@ -68,8 +68,12 @@ When I asked myself what I should build, I assumed I would do a small project li
 My blunt answer is that I don't care. I am not trying to compete with anything you would currently find in the app store. I want to work with a CBT therapist to create something that would benefit people and leave it as open source code for anyone who wants to add onto it or make something better out of it. I want to put a little seed out into the world that hopefully will grow into something much larger, not in terms of stars or downloads but in ways that can help people. I truly hope this does.
 
 
+## Is this a little presumptuous or pretentious or idealistic?
+
+Maybe? I don't know. I have been searching externally for an opportunity that would make me feel like I was making some sort of positive contribution to the world, whether it was with my work or within my place of work. Until now, I never stopped to think about I could sate that need myself. So, here we are.
+
 ### Credits
 
-[catalyststuff](https://www.freepik.com/free-vector/astronaut-catching-star-cartoon-vector-icon-illustration-science-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_16844015.htm#query=astronaut&position=24&from_view=search&track=sph) is the creative force behind the astronaut images
+[catalyststuff](https://www.freepik.com/free-vector/astronaut-catching-star-cartoon-vector-icon-illustration-science-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_16844015.htm#query=astronaut&position=24&from_view=search&track=sph) is the creative force behind the astronaut images.
 
 The background image came from [Freepick](https://www.freepik.com/free-vector/falling-stars-beautiful-night-background_5376553.htm#page=2&query=space&position=18&from_view=search&track=sph).
